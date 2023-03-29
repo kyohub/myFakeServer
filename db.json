@@ -9,6 +9,7 @@
     { "id": 2, "body": "Bad!!", "postId": 1 }
   ],
   "profile": {
-    "name": "kyohub"
+    "name": "kyohub",
+    "repo": "myFakeServer"
   }
 }
